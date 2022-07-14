@@ -1,6 +1,6 @@
-#Projeto Integrador 
+Projeto Integrador 
 
-##Projeto Integrador desenvolvido no Bootcamp Impulso JavaScript Evolution.
+Projeto Integrador desenvolvido no Bootcamp Impulso JavaScript Evolution.
 
 Nesse projeto foi usado HTML e CSS com ênfase nas propriedades flexbox na criação de layouts responsivos, sem a necessidade de definições de valores fixos. 
 
